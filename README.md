@@ -23,10 +23,10 @@ Todo:
 4. Component - dumb - reacts to data - renders html and handles component styles and layout
 
 Example
-1. GameService - exports getGameLoopStream or getEnemyShotsStream
-2. InGameLayout - basic html structure and layout styles. Imports GameContainer
-3. GameContainer - Handles data between GameService and GameComponent. Just imports and renders GameComponent
-4. GameComponent - Gets data in props from GameContainer. Renders canvas using canvas utils helper. Requests changes to parent Container
+* [x] GameService - exports getGameLoopStream or getEnemyShotsStream
+* [x] InGameLayout - basic html structure and layout styles. Imports GameContainer
+* [x] GameContainer - Handles data between GameService and GameComponent. Just imports and renders GameComponent
+* [x] GameComponent - Gets data in props from GameContainer. Renders canvas using canvas utils helper. Requests changes to parent Container
 
 
 # Building
