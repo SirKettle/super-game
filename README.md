@@ -1,5 +1,5 @@
 # super-game
-A simple JavaScript game using RxJs, ES6 and Canvas
+A simple JavaScript game using RxJs, ES6, React and Canvas
 
 Objectives:
 * [ ] To master RxJs
@@ -11,4 +11,6 @@ Todo:
 * [ ] Set up Gulp
 * [ ] Babel for ES6
 * [ ] RxJs used for game state / engine
-* [ ] Canvas to render
+* [ ] React to render dumb components
+* [ ] Canvas to render game inside component
+
