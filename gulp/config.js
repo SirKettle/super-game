@@ -11,7 +11,7 @@ module.exports = {
   },
 
   'scripts': {
-    'src' : 'src/app/**/*.js',
+    'src' : 'src/app/**/*.{js,jsx}',
     'dest': 'build/js'
   },
 
